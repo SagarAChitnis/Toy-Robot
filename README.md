@@ -7,6 +7,8 @@ Go to the application folder using command line.
 Run : python toy_robot.py
 Enter the Commands
 
+<img src = "Command.PNG" width = "400" height = "600">
+
 To run the test cases:
 
 Run : python toy_robot_test.py
